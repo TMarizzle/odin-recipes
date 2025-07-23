@@ -1,0 +1,27 @@
+img {
+    width: 250px;
+    height: 300px;
+}
+
+body {
+    font-family: Cambria;
+    font-size: 16px;
+    background-color: antiquewhite;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    color: green;
+    text-decoration: none;
+}
+a:hover{
+    color: magenta;
+    text-decoration: underline;
+}
+
+.recipeName{
+    border: 5px solid red;
+    border-radius: 20px;
+}
