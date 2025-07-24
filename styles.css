@@ -1,6 +1,6 @@
 img {
-    width: 250px;
-    height: 300px;
+    width: 400px;
+    height: 350px;
 }
 
 body {
@@ -28,6 +28,10 @@ a:hover{
 }
 
 .recipeName{
-    border: 5px solid red;
-    border-radius: 20px;
+    border-bottom: 5px solid red;
+}
+
+h3 {
+    border-bottom: 3px solid black;
+    margin-right: 60%;
 }
